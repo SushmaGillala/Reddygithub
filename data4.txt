@@ -1,13 +1,1 @@
 sample data 
-Generating public/private ed25519 key pair.
-Enter file in which to save the key (/c/Users/Dell5408/.ssh/id_ed25519):
-Created directory '/c/Users/Dell5408/.ssh'.
-Enter passphrase for "/c/Users/Dell5408/.ssh/id_ed25519" (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /c/Users/Dell5408/.ssh/id_ed25519
-Your public key has been saved in /c/Users/Dell5408/.ssh/id_ed25519.pub
-The key fingerprint is:
-SHA256:Tt8KjcO5O/xHjvoixIqxVH9ccPqXv6SrcOsO/yTexew Dell5408@DESKTOP-KJVQCUJ
-
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE9MnnI1+g9lRX4XIkCLsEC2CugQKKRs5e9fzL0EvAKf Dell5408@DESKTOP-KJVQCUJ
